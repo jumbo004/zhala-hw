@@ -1,0 +1,15 @@
+C:\Users\azer2\source\repos\Jproect\Jproect\bin\Debug\net6.0\Jproect.exe
+C:\Users\azer2\source\repos\Jproect\Jproect\bin\Debug\net6.0\Jproect.deps.json
+C:\Users\azer2\source\repos\Jproect\Jproect\bin\Debug\net6.0\Jproect.runtimeconfig.json
+C:\Users\azer2\source\repos\Jproect\Jproect\bin\Debug\net6.0\Jproect.dll
+C:\Users\azer2\source\repos\Jproect\Jproect\bin\Debug\net6.0\Jproect.pdb
+C:\Users\azer2\source\repos\Jproect\Jproect\obj\Debug\net6.0\Jproect.csproj.AssemblyReference.cache
+C:\Users\azer2\source\repos\Jproect\Jproect\obj\Debug\net6.0\Jproect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azer2\source\repos\Jproect\Jproect\obj\Debug\net6.0\Jproect.AssemblyInfoInputs.cache
+C:\Users\azer2\source\repos\Jproect\Jproect\obj\Debug\net6.0\Jproect.AssemblyInfo.cs
+C:\Users\azer2\source\repos\Jproect\Jproect\obj\Debug\net6.0\Jproect.csproj.CoreCompileInputs.cache
+C:\Users\azer2\source\repos\Jproect\Jproect\obj\Debug\net6.0\Jproect.dll
+C:\Users\azer2\source\repos\Jproect\Jproect\obj\Debug\net6.0\refint\Jproect.dll
+C:\Users\azer2\source\repos\Jproect\Jproect\obj\Debug\net6.0\Jproect.pdb
+C:\Users\azer2\source\repos\Jproect\Jproect\obj\Debug\net6.0\Jproect.genruntimeconfig.cache
+C:\Users\azer2\source\repos\Jproect\Jproect\obj\Debug\net6.0\ref\Jproect.dll
